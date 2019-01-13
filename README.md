@@ -1,4 +1,6 @@
 # viz_processing
 visualizations using processing
 
-1) Geometrical painting : ![Piet Mondrian Art](piet_mondrian_art/images/piet-mondrian-composition-recreation.jpg)
+1) Geometrical painting :  \\
+
+![Piet Mondrian Art](piet_mondrian_art/images/piet-mondrian-composition-recreation.jpg)
