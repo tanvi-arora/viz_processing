@@ -1,3 +1,7 @@
+// Piet Mondrian Art Recreation
+// Submitted by Tanvi Arora and Melissa Luzardo
+// SMU MSDS 6390 - Assignment 1
+
 void setup()
 {
 // setting up canvas
