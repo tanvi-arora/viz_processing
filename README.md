@@ -15,4 +15,4 @@ visualizations using processing
 
 4) Internet vizualization of real-time or near real-time data
 
-![weather forecast](
+![weather forecast](HW6_WeatherForecast/data/output.png)
