@@ -8,3 +8,11 @@ visualizations using processing
 2) Use of arrays to create a lightningfight ( moving image )
 
 ![wands](HW4_lightning_fight_6/lightningfight.png)
+
+3) Image processing - different styles of phot editing
+
+![flower](HW5_photoedit/HW5_photoedit/data/output.png)
+
+4) Internet vizualization of real-time or near real-time data
+
+![weather forecast](
